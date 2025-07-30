@@ -1,5 +1,5 @@
 # 💫 **Gwen Todd**  
-### *Cybersecurity Technologist | MSSA Student | Transitioning Military *
+### *Aspiring Cyber Professional | MSSA Student | Transitioning Military *
 
 📬 **Let’s Connect**  
 - [LinkedIn](https://www.linkedin.com/in/gwendolyn-todd)  
@@ -9,10 +9,10 @@
 
 ## 🚀 About Me
 
-I'm a mission-driven technologist with a background in cybersecurity, Windows Server administration, and IT infrastructure. As a proud MSSA graduate and veteran, I bring a unique blend of technical skill, strategic thinking, and purpose-led growth to every challenge.
+I'm a mission-driven emerging cyber professional with a foundation in cybersecurity, cloud and server administration, and intelligence analysis. As a proud MSSA student and veteran, I bring a unique blend of hands-on technical skill, strategic thinking, and purpose-led growth to every challenge. I'm actively expanding my expertise across infrastructure and security domains, with a focus on precision, adaptability, and impact.
 
 🔹 BS in Cybersecurity  
-🔹 CompTIA Certified (Security+, Network+, etc.)  
+🔹 CompTIA Certified (Security+, Network+, PenTest+, CySA+)  
 🔹 Clearance: TS/SCI with Poly  
 🔹 Passionate about growth, lifelong learning, and building secure systems that serve people.
 
@@ -24,7 +24,15 @@ I'm a mission-driven technologist with a background in cybersecurity, Windows Se
 - **Security**: Vulnerability Management, Risk Assessment, Compliance  
 - **Networking & Storage**: TCP/IP, DNS, DHCP, SAN/NAS  
 - **Containers & Virtualization**: Docker, VMware  
-- **Soft Skills**: 
+- **Soft Skills**:
+
+---
+
+## 🚀 Featured Projects
+
+### 🛠️ Windows Server AD Lab
+A fully documented Active Directory lab built from scratch using Oracle VirtualBox, PowerShell, and GUI methods. Includes domain setup, GPO enforcement, user/group provisioning, and powershell scripts.
+🔗 [View Project](https://github.com/gwentodd/Windows-Server-AD-Lab)
 
 ---
 
